@@ -1,9 +1,10 @@
-// NOTE: If this import is giving you issues, make sure you
+package src;// NOTE: If this import is giving you issues, make sure you
 // hover over it and either click the red lightbulb, or press
 // ALT + ENTER to "Add Junit4 to Classpath". This will allow
 // you to run the test cases!
 
-import org.junit.*;
+import org.junit.Test;
+
 import static org.junit.Assert.assertEquals;
 
 public class UtilTester {
