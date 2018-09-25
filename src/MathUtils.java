@@ -25,6 +25,7 @@ public class MathUtils {
         if (exp < 0) {
             exp *= -1;
             isNegative = true;
+            //change
         }
 
         /* Multiply the result by the base exp times
